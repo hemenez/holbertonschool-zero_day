@@ -1,0 +1,1 @@
+This project is about understanding the other optional text-editor, Vi.
